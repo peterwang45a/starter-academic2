@@ -37,7 +37,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-{{< icon name="envelope" pack="fas" >}} wangpeixin@sjtu.edu.cn
 
 
 # Link to a PDF of your resume/CV.
@@ -59,4 +58,4 @@ I am a final-year Ph.D. student in Computer Science at Shanghai Jiao Tong Univer
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
 
-# {{< icon name="envelope" pack="fas" >}} wangpeixin@sjtu.edu.cn
+{{< icon name="envelope" pack="fas" >}} wangpeixin@sjtu.edu.cn
