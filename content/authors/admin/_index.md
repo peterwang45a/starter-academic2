@@ -37,7 +37,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- Email: wangpeixin@sjtu.edu.cn
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:wangpeixin@sjtu.edu.cn" 
+  # For a direct email link, use "mailto:test@example.org".
 
 
 # Link to a PDF of your resume/CV.
