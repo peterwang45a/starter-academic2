@@ -37,10 +37,10 @@ design:
   view: 4
 ---
 
-* Artifact Evaluation Committee - Computer-Aided Verification  <br>
+* Artifact Evaluation Committee - Computer-Aided Verification 
 [(CAV 2021)](http://i-cav.org/2021/) <br> <br>
 
-* Artifact Evaluation Committee - Principles of Programming Languages <br> 
+* Artifact Evaluation Committee - Principles of Programming Languages 
 [(POPL 2021)](https://popl21.sigplan.org/) <br> <br>
 
 * Volunteer for [BASICS Summer School](https://basics.sjtu.edu.cn/summer_school/) 2016, 2017, 2018, 2019
