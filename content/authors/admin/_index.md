@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'wangpeixin@sjtu.edu.cn'
 
 
 # Link to a PDF of your resume/CV.
