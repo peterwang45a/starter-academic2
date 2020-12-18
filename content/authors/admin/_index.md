@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a final-year Ph.D. student in Computer Science at Shanghai Jiao Tong University.
+I am a final-year Ph.D. student in Computer Science at Shanghai Jiao Tong University. I am advised by Prof. Yuxi Fu and Dr. Hongfei Fu. I am mainly interested in formal methods, aiming at proving system correctness by rigorous mathematical approaches. Currently, my focus is on program verification and model checking (for probabilistic/concurrent programs).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/myCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
