@@ -37,6 +37,6 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+* Peixin Wang, Hongfei Fu, Krishnendu Chatterjee, Yuxin Deng, Ming Xu. &ldquo;Proving expected sensitivity of probabilistic programs with randomized variable-dependent termination time&rdquo;. In POPL 2020. <br>
+
+* Peixin Wang, Hongfei Fu, Amir Kafshdar Goharshady, Krishnendu Chatterjee, Xudong Qin, Wenjun Shi. &ldquo;Cost analysis of nondeterministic probabilistic programs&rdquo;. In PLDI 2019. <br>
